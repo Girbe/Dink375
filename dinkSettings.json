@@ -1,5 +1,6 @@
 {
 "killCountInterval":100,
+"killCountIntervalLaps":100,
 "combatTaskEnabled":true,
 "speedrunEnabled":true,
 "questEnabled":true,
